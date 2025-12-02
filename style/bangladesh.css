@@ -34,5 +34,21 @@
     
 }
 .nav-contant .nav-btn{
-    
+    width: 110px;
+    height: 50px;
+    padding: 10px 20px;
+    font-weight: 800;
+    color: #006A50;
+    border: 2px solid #006A50;
+    border-radius: 10px;
+}
+.nav-contant .nav-btn:hover{
+    background-color: #138367;
+    color: #F5F5F5;
+    cursor: pointer;
+    transition: 1s;
+    border: 2px solid #075340;
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.4)
+
+;
 }
